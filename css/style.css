@@ -14,7 +14,7 @@ body {
     background-color: white;
 }
 
-.siliconValley {
+.aqours {
     width: 50%;
     height:50%;
 }
@@ -44,14 +44,9 @@ a {
 button {
     margin-top: 10px;
     color: white;
-    background-color: red;
+    background-color: #77a9f9;
     font-size: 40px;
     border-radius: 25px;
-    border:3px groove black ;
+    border:5px #77a9f9;
     font-family: monospace;
-}
-
-body{
-
-    margin-left:20px;
 }
