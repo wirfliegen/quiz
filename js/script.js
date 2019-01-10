@@ -5,9 +5,9 @@ var totalScore;
 $(".question").hide();
 function displayResult(){
     if(totalScore === isNaN){
-        return $(".result").html("<h2>Congratulations! You got " + memberPlacement + "!</h2>" + "<img src=" + imgSrc + ">");
-    }else{
         return $(".result").html("<h2>You didn't answer every question. Go back and try again.</h2>");
+    }else{
+        return $(".result").html("<h2>Congratulations! You got " + memberPlacement + "!</h2>" + "<img src=" + imgSrc + ">");
     }
 }
 function placement(){
