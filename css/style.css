@@ -12,7 +12,7 @@
 
 body {
     background-color: white;
-    font-family: 'Spicy Rice', cursive;
+    font-family: 'Forum', cursive;
 }
 
 .aqours {
@@ -24,9 +24,9 @@ body {
     font-size: 20px;
 }
 
-#tomImg {
+#sallyImg {
     border-radius: 50%;
-    width: 50px;
+    width: 40px;
 }
 
 a {
@@ -49,5 +49,5 @@ button {
     font-size: 40px;
     border-radius: 25px;
     border:5px #77a9f9;
-    font-family: monospace;
+    font-family: 'Forum', cursive;
 }
