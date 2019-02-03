@@ -12,7 +12,7 @@
 
 body {
     background-color: white;
-    font-family: 'Forum', cursive;
+    font-family: 'Delius', cursive;
 }
 
 .aqours {
@@ -49,5 +49,14 @@ button {
     font-size: 40px;
     border-radius: 25px;
     border:5px #77a9f9;
-    font-family: 'Forum', cursive;
+    font-family: 'Delius Unicase', cursive;
+}
+
+h1, h2 {
+    font-family: 'Delius Unicase', cursive;
+}
+
+body {
+    background-color: #33486b;
+    color: white;
 }

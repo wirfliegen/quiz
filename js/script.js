@@ -66,3 +66,9 @@ function placement(){
         placement();
         displayResult();
     });
+    
+//Kanan description: You're Kanan! You never lose your cool, even in tough situations. You're very supportive and put your friends' needs above your own. 
+//Dia description: You're Dia! You're very refined, polite, and a bit of a perfectionist.
+//Hanamaru description: You're Hanamaru!
+//Mari description:
+//Yoshiko description:
